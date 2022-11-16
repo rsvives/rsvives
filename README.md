@@ -1,13 +1,15 @@
 # Rodrigo Serrán
 
+<img src="https://gpvc.arturio.dev/rodri-afa" alt="Profile views" align='right'/> <a href="https://github.com/rodri-afa/rodri-afa/"> </a>
+
+
 - 👋 Hi, I’m @rodri-afa
 - 👀 I’m interested in web-dev🤖, mountain sports🏔, and travelling🌏
 - 🌱 I’m learning software engineering, networking and advanced programming techniques.
 - 🔧 I'm currently working on teaching web development and creating content ✌🏻.
 
 
-
-
+  
 ## Tech Stack
 
 <span width="45%">
