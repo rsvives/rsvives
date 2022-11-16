@@ -6,15 +6,26 @@
 - 🔧 I'm currently working on teaching web development and creating content ✌🏻.
 
 
+
+
 ## Tech Stack
+
+<span width="45%">
 
 ### Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,nuxt,jest)](https://skillicons.dev)
 
-### Backend & Programming 
+</span>
+<span width="45%">
+ 
+  
+### Backend & Programming
+ 
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,nodejs,express,typescript,php,laravel,java,postman)](https://skillicons.dev)
+
+</span>
 
 ### Design
 
@@ -24,6 +35,19 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vercel,linux,docker,git,github)](https://skillicons.dev)
 
+## Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-afa&langs_count=6&theme=dracula&layout=compact&hide_border=true"
+          alt="rodri-afa :: overall Top Langs " />
+<!--  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rodri-afa&theme=dracula&layout=compact&hide_border=true"
+          alt="rodri-afa :: Top Langs by repo" /> -->
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rodri-afa&theme=dracula&layout=compact&hide_border=true"
+          alt="rodri-afa :: Top Langs by commit" />
+<img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rodri-afa&theme=dracula"
+          alt="rodri-afa :: Stats" />
+          
+        
 
 <!---
 rodri-afa/rodri-afa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
