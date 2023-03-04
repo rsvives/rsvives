@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @rodri-afa
 - 👀 I’m interested in web-dev🤖, mountain sports🏔, and travelling🌏
 - 🌱 I’m learning software engineering, networking and advanced programming techniques.
-- 🔧 I'm currently working on teaching web development and creating content ✌🏻.
+- 🔧 I'm currently working on teaching web development and creating teaching content ✌🏻.
 
 ## Subjets I'm teaching
 
@@ -18,7 +18,7 @@
 - DWES: Desarrollo en entorno servidor
 - ADD: Acceso a datos
 
-[saber más](https://github.com/rodri-afa)
+  [saber más](https://github.com/rodri-afa)
 
   
 ## Tech Stack
