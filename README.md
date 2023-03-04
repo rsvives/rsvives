@@ -8,6 +8,17 @@
 - 🌱 I’m learning software engineering, networking and advanced programming techniques.
 - 🔧 I'm currently working on teaching web development and creating content ✌🏻.
 
+## Subjets I'm teaching
+
+**1. First grade:**
+  - LLMM: Lenguajes de marcas y sistemas de gestión de la información
+  - EED: Entornos de desarrollo
+
+**2. Second grade:**
+- DWES: Desarrollo en entorno servidor
+- ADD: Acceso a datos
+
+[saber más](https://github.com/rodri-afa)
 
   
 ## Tech Stack
@@ -37,7 +48,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vercel,linux,docker,git,github)](https://skillicons.dev)
 
-## Stats
+## My Stats
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodri-afa&langs_count=6&theme=dracula&layout=compact&hide_border=true"
