@@ -1,7 +1,5 @@
 # Rodrigo Serrán
 
-<img src="https://gpvc.arturio.dev/rsvives" alt="Profile views" align='right'/> <a href="https://github.com/rsvives/rsvives/"> </a>
-
 
 - 👋 Hi, I’m @rodri-afa
 - 👀 I’m interested in web-dev🤖, mountain sports🏔, and travelling🌏
