@@ -1,6 +1,6 @@
 # Rodrigo Serrán
 
-<img src="https://gpvc.arturio.dev/rodri-afa" alt="Profile views" align='right'/> <a href="https://github.com/rodri-afa/rodri-afa/"> </a>
+<img src="https://gpvc.arturio.dev/rodri-afa" alt="Profile views" align='right'/> <a href="https://github.com/rsvives/rsvives/"> </a>
 
 
 - 👋 Hi, I’m @rodri-afa
@@ -27,7 +27,7 @@
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,nuxt,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,nuxt,react,jest)](https://skillicons.dev)
 
 </span>
 <span width="45%">
