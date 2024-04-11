@@ -1,6 +1,6 @@
 # Rodrigo Serrán
 
-<img src="https://gpvc.arturio.dev/rodri-afa" alt="Profile views" align='right'/> <a href="https://github.com/rsvives/rsvives/"> </a>
+<img src="https://gpvc.arturio.dev/rsvives" alt="Profile views" align='right'/> <a href="https://github.com/rsvives/rsvives/"> </a>
 
 
 - 👋 Hi, I’m @rodri-afa
