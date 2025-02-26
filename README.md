@@ -1,7 +1,7 @@
 # Rodrigo Serrán
 
 
-- 👋 Hi, I’m @rodri-afa
+- 👋 Hi, I’m @rsvives
 - 👀 I’m interested in web-dev🤖, mountain sports🏔, and travelling🌏
 - 🌱 I’m learning software engineering, networking and advanced programming techniques.
 - 🔧 I'm currently working on teaching web development and creating teaching content ✌🏻.
